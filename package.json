@@ -1,0 +1,11 @@
+{
+  "name": "kabuka-dashboard",
+  "version": "1.0.0",
+  "description": "投資ファンドダッシュボード",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'No build needed'"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
